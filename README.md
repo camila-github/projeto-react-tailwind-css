@@ -1,4 +1,4 @@
-## Projeto - Criação de site com React + Tailwind CSS
+## Projeto - Criação de site utilizando React + Tailwind CSS
 
 Para criação do site utilizado as ferramentas abaixo:
 
