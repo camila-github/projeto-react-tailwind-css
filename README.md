@@ -34,6 +34,19 @@ Para executar o projeto.
 ## Vídeo/Imagem de demonstração do aplicativo.
 
 <p align="center">
+   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/video-mobile-.webp"/>
+</p>
+
+<p align="center" width="400px">
+   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-desk.webp"/>
+</p>
+
+<p align="center" width="200px">
+   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp"/>
+</p>
+
+
+<p align="center">
    <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/video-mobile--.mp4"/>
 </p>
 
