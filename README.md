@@ -41,6 +41,6 @@ Para executar o projeto.
    <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-desk.webp"/>
 </p>
 
-<p align="center" width="200px">
+<p align="center" width="50px">
    <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp"/>
 </p>
