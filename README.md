@@ -38,9 +38,9 @@ Para executar o projeto.
 </p>
 
 <p align="center">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-desk.webp" width="300"/>
+   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-desk.webp"/>
 </p>
 
 <p align="center">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp" width="300"/>
+   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp" width="500"/>
 </p>
