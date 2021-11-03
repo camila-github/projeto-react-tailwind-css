@@ -41,11 +41,4 @@ Para executar o projeto.
    <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/video-desk--.mp4"/>
 </p>
 
-<p align="center">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-desk.webp"/>
-</p>
-
-<p align="center">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp"/>
-</p>
 
