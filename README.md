@@ -44,14 +44,3 @@ Para executar o projeto.
 <p align="center" width="200px">
    <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp"/>
 </p>
-
-
-<p align="center">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/video-mobile--.mp4"/>
-</p>
-
-<p align="center">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/video-desk--.mp4"/>
-</p>
-
-
