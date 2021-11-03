@@ -37,10 +37,10 @@ Para executar o projeto.
    <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/video-mobile-.webp"/>
 </p>
 
-<p align="center" width="400px">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-desk.webp"/>
+<p align="center">
+   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-desk.webp" width="300"/>
 </p>
 
-<p align="center" width="50px">
-   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp"/>
+<p align="center">
+   <img src="https://github.com/camila-github/projeto-react-tailwind-css/blob/main/docs/img-responsive.webp" width="300"/>
 </p>
