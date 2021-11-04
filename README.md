@@ -27,7 +27,7 @@ Para executar o projeto.
 
 - Efetuar o clone do repositório em uma pasta do sistema operacional.
 - Executar o comando 'npm install' dentro da pasta raiz do projeto para baixar as dependência.
-- Para executar o servidor dev o utilize o comando 'npm run dev'.
+- Para executar o servidor dev, utilize o comando 'npm run dev'.
 
 
 
